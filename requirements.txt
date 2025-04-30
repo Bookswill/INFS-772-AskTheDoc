@@ -1,5 +1,5 @@
 streamlit>=1.30.0
-langchain==0.1.14
+langchain-openai
 openai==1.14.3
 chromadb==0.4.24
 tiktoken==0.6.0
