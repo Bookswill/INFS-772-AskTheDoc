@@ -4,4 +4,4 @@ openai
 chromadb
 tiktoken
 numpy>1.25.0
-pandas==1.5.3
+pandas>2.0.0
