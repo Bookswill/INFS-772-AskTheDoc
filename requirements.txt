@@ -3,6 +3,6 @@ langchain
 openai
 chromadb
 tiktoken
-pandas>=2.1.1
+pandas
 setuptools>=65.5.0
-numpy==1.24.4 --only-binary=:all:
+numpy
