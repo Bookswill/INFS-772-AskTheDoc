@@ -1,8 +1,8 @@
-streamlit==1.20.0
-langchain
-openai
-chromadb
-tiktoken
-pandas
+streamlit>=1.30.0
+langchain==0.1.14
+openai==1.14.3
+chromadb==0.4.24
+tiktoken==0.6.0
+pandas>=1.5.0
+numpy>=1.21.0
 setuptools>=65.5.0
-numpy
